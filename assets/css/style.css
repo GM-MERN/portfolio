@@ -1313,3 +1313,12 @@ section {
 #footer .credits a {
   color: #34b7a7;
 }
+
+@media (max-width: 400px) {
+
+  .vid1
+  {
+
+    display: none;
+  }
+}
